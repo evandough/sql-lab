@@ -10,7 +10,7 @@ Each folder represents a focused mini-project or set of scripts tied to a real t
 
 | Folder                  | Description |
 |--------------------------|-------------|
-| `crime_scene_report_analysis/` | A playful SQL analysis project based on a mock crime dataset. |
+| `sql-murder-mystery/` | A SQL analysis project based on a mock crime dataset. |
 
 ## Goals
 
