@@ -22,5 +22,5 @@ SELECT *
 SELECT *
   FROM person
   WHERE address_street_name = 'Franklin Ave'
-  AND name LIKE '%Ann%'
+  AND name LIKE '%Ann%' -- The % is a catch all before and after 'Ann'
   LIMIT 20
