@@ -1,6 +1,6 @@
 # sql-lab
 
-This repository is a collection of SQL projects that reflect my journey in learning, applying, and improving SQL skills — especially in the context of system administration, cloud environments, and real-world scenarios.
+This repository is a collection of **SQL** projects that reflect my journey in learning, applying, and improving SQL skills — especially in the context of system administration, cloud environments, and real-world scenarios.
 
 ## What You'll Find Here
 
