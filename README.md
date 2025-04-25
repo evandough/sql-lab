@@ -1,4 +1,4 @@
-# sql-lab
+# SQL Labs
 
 This repository is a collection of **SQL** projects that reflect my journey in learning, applying, and improving SQL skills — especially in the context of system administration, cloud environments, and real-world scenarios.
 
@@ -11,15 +11,17 @@ Each folder represents a focused mini-project or set of scripts tied to a real t
 | Folder                  | Description |
 |--------------------------|-------------|
 | `sql-murder-mystery/` | A SQL analysis project based on a mock crime dataset. |
+| `sql-noir/` | SQL projects based on various cases. |
 
 ## Goals
 
-- Practice and showcase SQL skills in a system/cloud context
+- Practice and showcase SQL quiery skills in a system/cloud context
 - Build reusable templates/scripts for common DBA tasks
 - Experiment with optimization, security, and automation
 
 ## Tools Used
 
+- SQL
 - SQLite
 - Azure SQL 
 - Bash / PowerShell (for automation tasks)
