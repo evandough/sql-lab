@@ -13,6 +13,7 @@ I'll have the queries that were ran for each case, the thought process behind th
 | Folder | Description |
 | ----------- | ------------ |
 | `vanishing-briefcase/` | Recover the briefcase and find the suspect. |
+| `stolen-sound/` | A prized vinyl record has been stolen - time to find the suspect. |
 
 <!-- [Link To SQL Queries To Solve The Crime](investigation.sql) -->
 
