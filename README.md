@@ -1,10 +1,17 @@
 # SQL Labs
 
-This repository is a collection of **SQL** projects that reflect my journey in learning, applying, and improving SQL skills — especially in the context of system administration, cloud environments, and real-world scenarios.
+This repository is a collection of **SQL** projects that reflect my journey in learning advanced querying techniques and documenting the journey — one case at a time.
 
 ## What You'll Find Here
 
-Each folder represents a focused mini-project or set of scripts tied to a real task, like managing backups, monitoring systems, or analyzing data. 
+Each folder represents a focused mini-project or set of queries tied to a task.
+This repo is a collection of:
+- Walkthroughs and solutions to SQL-based games 
+- Tips and SQL tricks I learn along the way
+- Notes and breakdowns of how I approach each problem
+- Queries with commentary, not just answers
+
+It's part blog, part notebook, part playground.
 
 ### Projects
 
@@ -15,16 +22,17 @@ Each folder represents a focused mini-project or set of scripts tied to a real t
 
 ## Goals
 
-- Practice and showcase SQL quiery skills in a system/cloud context
-- Build reusable templates/scripts for common DBA tasks
-- Experiment with optimization, security, and automation
+- Practice and showcase SQL quiery skills 
+- Build a strong SQL intuition
+- Learn to "think in queries"
+- Share the process in a fun, accessible way- 
 
 ## Tools Used
 
 - SQL
 - SQLite
-- Azure SQL 
-- Bash / PowerShell (for automation tasks)
+- PostgreSQL 
+- Markdown for documentation
 
 ## Notes
 
