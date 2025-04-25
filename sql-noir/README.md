@@ -5,15 +5,16 @@ This project is based off of [SQLNoir GitHub](https://github.com/hristo2612/SQLN
 [Play the game online at sqlnoir.com](https://www.sqlnoir.com/)
 
 ## Goals
-Main objective is to solve the various crimes using **SQL**. SQL Noir is an interactive mystery-solving game where you crack cases by writing SQL queries.
+There's mystery afoot. Main objective is to solve the various crimes using **SQL**. SQL Noir is an interactive mystery-solving game where you crack cases by writing SQL queries.
 
 ## What You'll Find Here 🕵️
-I'll have the queries that were ran for each case, the thought process behind the queries, and notes of what the queries do to solve this mystery. 
+I'll have the queries that were ran for each case, the thought process behind the queries, and notes of what the queries do to solve the mysteries. 
 
 | Folder | Description |
 | ----------- | ------------ |
 | `vanishing-briefcase/` | Recover the briefcase and find the suspect. |
 | `stolen-sound/` | A prized vinyl record has been stolen - time to find the suspect. |
+| `miami-marina-murder/` | Miami can't rest until the killer is found. |
 
 <!-- [Link To SQL Queries To Solve The Crime](investigation.sql) -->
 
