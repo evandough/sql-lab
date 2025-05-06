@@ -25,7 +25,7 @@ It's part blog, part notebook, part playground.
 - Practice and showcase SQL quiery skills 
 - Build a strong SQL intuition
 - Learn to "think in queries"
-- Share the process in a fun, accessible way- 
+- Share the process in a fun, accessible way
 
 ## Tools Used
 
